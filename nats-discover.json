@@ -1,19 +1,19 @@
 {
-    "version": "1.4.39",
+    "version": "1.4.40",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/transactrx/nats-service/releases/download/v1.4.39/nats-discover_1.4.39_windows_amd64.zip",
+            "url": "https://github.com/transactrx/nats-service/releases/download/v1.4.40/nats-discover_1.4.40_windows_amd64.zip",
             "bin": [
                 "nats-discover.exe"
             ],
-            "hash": "bd20f545ea1252fce24ee843bf4e4c7b483309fbd2293128ecd43092fa813ea4"
+            "hash": "830ae18cacb684b38fe65ecb04f04cff8e645ff8ff80185b15f103d5e519e686"
         },
         "arm64": {
-            "url": "https://github.com/transactrx/nats-service/releases/download/v1.4.39/nats-discover_1.4.39_windows_arm64.zip",
+            "url": "https://github.com/transactrx/nats-service/releases/download/v1.4.40/nats-discover_1.4.40_windows_arm64.zip",
             "bin": [
                 "nats-discover.exe"
             ],
-            "hash": "c7199b5f3748910b4d2b01ac482b3912c3bc8ae2a64e634e9d87f18546e64e56"
+            "hash": "34d9f843d8bf04b07a0c3a5b1a86820fd2cce8b725a84d4f8abd48e25b38db3e"
         }
     },
     "homepage": "https://github.com/transactrx/nats-service",
