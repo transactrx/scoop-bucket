@@ -1,0 +1,22 @@
+{
+    "version": "1.4.37",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/transactrx/nats-service/releases/download/v1.4.37/nats-discover_1.4.37_windows_amd64.zip",
+            "bin": [
+                "nats-discover.exe"
+            ],
+            "hash": "1c78c26743a0bccb114bf8d252f57b2916136f641e8889ba3ffcdc4f67978df9"
+        },
+        "arm64": {
+            "url": "https://github.com/transactrx/nats-service/releases/download/v1.4.37/nats-discover_1.4.37_windows_arm64.zip",
+            "bin": [
+                "nats-discover.exe"
+            ],
+            "hash": "9a70c27fcc69a772930bfbd8f1753898d49ff990cd96e3c28b368b64a664fd03"
+        }
+    },
+    "homepage": "https://github.com/transactrx/nats-service",
+    "license": "MIT",
+    "description": "CLI tool to discover NATS services using the nats-service framework"
+}
